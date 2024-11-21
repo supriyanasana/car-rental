@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"No tests available\"",
-    "build": "echo \"Build step not configured. Please update this script as needed.\""
+    "build": "react-scripts build"
+
   },
   "keywords": [],
   "author": "",
